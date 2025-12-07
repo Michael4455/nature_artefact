@@ -1,0 +1,20 @@
+@font-face {
+    font-family: open-sans;
+    font-weight: 400;
+    font-style: normal;
+    src: url(/fonts/ofont.ru_Open\ Sans.ttf)
+}
+
+@font-face {
+    font-family: cormorant_bold;
+    src: url(/fonts/Cormorant-Bold.ttf);
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: cormorant_italic;
+    src: url(/fonts/Cormorant-Bold.ttf);
+    font-weight: 700;
+    font-style: italic;
+}

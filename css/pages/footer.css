@@ -1,0 +1,33 @@
+.footer{
+    height: 79px;
+}
+
+.footer__block{
+    height: 79px;
+}
+
+.footer__media-block{
+    display: flex;
+    justify-content: center;
+    height: 60px;
+    background-color: #0B1919;
+}
+.footer__media{
+    height: 60px;
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.footer__copyright{
+    height: 19px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: open-sans, sans-serif;
+    font-size: 12px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    font-weight: 400;
+    color: #899D9D;
+}

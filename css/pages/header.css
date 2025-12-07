@@ -1,0 +1,33 @@
+.header{
+    background-color: #1D2F30;
+    width: auto;
+    height: 60px;
+    color: white;
+}
+
+.header__container{
+    height: 60px;
+    display: flex;
+}
+
+.header__block{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.header__logo{
+    width: 65px;
+    height: 20px;
+}
+
+.header__nav{
+    display: flex;
+    gap: 64px;
+}
+
+.header__search{
+    display: flex;
+    gap: 64px;
+}
