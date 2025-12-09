@@ -19,6 +19,12 @@
     gap: 24px;
 }
 
+.prewiew__block-text{
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
 .prewiew__title{
     font-size: 60px;
     line-height: 100%;
